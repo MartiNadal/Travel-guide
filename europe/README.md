@@ -1,3 +1,3 @@
 # EUROPE
 
-- [Listenbourg](./europe/Listenbourg/Listenbourg.md)
+- [Listenbourg](./Listenbourg/Listenbourg.md)
